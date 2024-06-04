@@ -3,7 +3,8 @@
 This repository is a central location for my Power BI dashboards. 
 
 Here you'll find interactive visualizations designed for data exploration and analysis. 
-![Election Analysis Dashboard](https://github.com/Sumitk874/PowerBI-Dashboards/assets/69776082/77acbcd4-9ddb-4cfd-8663-a1e0d087fe2b)
+![Election Analysis Dashboard](https://github.com/Sumitk874/PowerBI-Dashboards/assets/69776082/77acbcd4-9ddb-4cfd-8663-a1e0d087fe2b)  
+
 ![Sales Dashboard](https://github.com/Sumitk874/PowerBI-Dashboards/assets/69776082/3ce81aec-04f2-476f-a2d5-75af026dfb38)
 
 
