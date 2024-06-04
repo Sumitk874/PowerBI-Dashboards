@@ -17,9 +17,3 @@ Here you'll find interactive visualizations designed for data exploration and an
 **Contributing**
 
 Feel free to fork this repository and contribute your own Power BI dashboards!  Please refer to the contributing guidelines (if available) before submitting a pull request.
-
-This is a basic structure for your README.md. You can customize it further by:
-
-* Adding links to relevant documentation or tutorials for Power BI.
-* Including information about the type of data each dashboard visualizes.
-* Specifying any dependencies or requirements for running the dashboards.
